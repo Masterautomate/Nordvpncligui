@@ -1,0 +1,1 @@
+NordVPN GUI 4 NordVPN CLI is a PyQt6-based graphical user interface for managing NordVPN on Linux via its command-line interface (CLI). It allows users to easily connect, disconnect, select locations, and manage settings without using terminal commands. Designed for KDE and other Linux desktops, it enhances the NordVPN experience with a simple, intuitive interface. 🚀
